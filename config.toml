@@ -1,6 +1,0 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "base16"
-baseURL="https://minhajuddin.github.io/Hydhack/"
-relativeURLS = true
-canonifyurls = true
